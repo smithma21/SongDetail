@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/3e25871c71e558c7054d483b066c0127/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/dfde9c1ea45a53cdcca77601626c1ae5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/79dbb7d9cb48606d21a83f0cb9a838d0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/b3e6a0c282a8b543175976350d477366/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c44882483d974c4102a15635ed2272fd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/cec23ece5ba930aeedf1acb3ec18ef4a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/4784df17a980c49be39cb5dd8b49bedf/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/89c0a95ca1accac020c644707e1038c7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/4c670236cfe29934964b3400bbc2b3ec/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/f59af80e9bb9003b5e63351bfdea7aaf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/e91e9512d6dc5e19fe06fdc817577dcb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/994798cc958af9a6c6aa47af530bb288/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/3e25871c71e558c7054d483b066c0127/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/3e25871c71e558c7054d483b066c0127/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/dfde9c1ea45a53cdcca77601626c1ae5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/dfde9c1ea45a53cdcca77601626c1ae5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/79dbb7d9cb48606d21a83f0cb9a838d0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/79dbb7d9cb48606d21a83f0cb9a838d0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/b3e6a0c282a8b543175976350d477366/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/b3e6a0c282a8b543175976350d477366/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c44882483d974c4102a15635ed2272fd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c44882483d974c4102a15635ed2272fd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/cec23ece5ba930aeedf1acb3ec18ef4a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/cec23ece5ba930aeedf1acb3ec18ef4a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/4784df17a980c49be39cb5dd8b49bedf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/4784df17a980c49be39cb5dd8b49bedf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/89c0a95ca1accac020c644707e1038c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/89c0a95ca1accac020c644707e1038c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/4c670236cfe29934964b3400bbc2b3ec/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/4c670236cfe29934964b3400bbc2b3ec/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/f59af80e9bb9003b5e63351bfdea7aaf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/f59af80e9bb9003b5e63351bfdea7aaf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/e91e9512d6dc5e19fe06fdc817577dcb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/e91e9512d6dc5e19fe06fdc817577dcb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/994798cc958af9a6c6aa47af530bb288/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/994798cc958af9a6c6aa47af530bb288/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.songdetail.MainActivity
+ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:13:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.android.songdetail.SongDetailActivity
+ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:parentActivityName
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:25:13-85
+	android:label
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:24:13-54
+	android:theme
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:23:13-77
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:27:13-29:79
+	android:value
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml:28:17-63
+uses-sdk
+INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/3e25871c71e558c7054d483b066c0127/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/3e25871c71e558c7054d483b066c0127/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/dfde9c1ea45a53cdcca77601626c1ae5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/dfde9c1ea45a53cdcca77601626c1ae5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/79dbb7d9cb48606d21a83f0cb9a838d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/79dbb7d9cb48606d21a83f0cb9a838d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/b3e6a0c282a8b543175976350d477366/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/b3e6a0c282a8b543175976350d477366/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c44882483d974c4102a15635ed2272fd/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c44882483d974c4102a15635ed2272fd/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/cec23ece5ba930aeedf1acb3ec18ef4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/cec23ece5ba930aeedf1acb3ec18ef4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/4784df17a980c49be39cb5dd8b49bedf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/4784df17a980c49be39cb5dd8b49bedf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/89c0a95ca1accac020c644707e1038c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/89c0a95ca1accac020c644707e1038c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/4c670236cfe29934964b3400bbc2b3ec/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/4c670236cfe29934964b3400bbc2b3ec/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/f59af80e9bb9003b5e63351bfdea7aaf/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/f59af80e9bb9003b5e63351bfdea7aaf/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/e91e9512d6dc5e19fe06fdc817577dcb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/e91e9512d6dc5e19fe06fdc817577dcb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/994798cc958af9a6c6aa47af530bb288/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/994798cc958af9a6c6aa47af530bb288/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/3e25871c71e558c7054d483b066c0127/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		ADDED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mackenziebsmith/android-advanced-starter-apps-master/SongDetail_start/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/3e25871c71e558c7054d483b066c0127/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/dfde9c1ea45a53cdcca77601626c1ae5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/dfde9c1ea45a53cdcca77601626c1ae5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/79dbb7d9cb48606d21a83f0cb9a838d0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/79dbb7d9cb48606d21a83f0cb9a838d0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/b3e6a0c282a8b543175976350d477366/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/b3e6a0c282a8b543175976350d477366/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c44882483d974c4102a15635ed2272fd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c44882483d974c4102a15635ed2272fd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/cec23ece5ba930aeedf1acb3ec18ef4a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/cec23ece5ba930aeedf1acb3ec18ef4a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/4784df17a980c49be39cb5dd8b49bedf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/4784df17a980c49be39cb5dd8b49bedf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/89c0a95ca1accac020c644707e1038c7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/89c0a95ca1accac020c644707e1038c7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/4c670236cfe29934964b3400bbc2b3ec/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/4c670236cfe29934964b3400bbc2b3ec/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/f59af80e9bb9003b5e63351bfdea7aaf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/f59af80e9bb9003b5e63351bfdea7aaf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/e91e9512d6dc5e19fe06fdc817577dcb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/e91e9512d6dc5e19fe06fdc817577dcb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/994798cc958af9a6c6aa47af530bb288/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/994798cc958af9a6c6aa47af530bb288/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/3e25871c71e558c7054d483b066c0127/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.1] /home/mackenziebsmith/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/3e25871c71e558c7054d483b066c0127/AndroidManifest.xml:27:13-51
